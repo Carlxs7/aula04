@@ -44,6 +44,7 @@ p {
   justify-content: center;
   gap: 20px;
   margin: 20px 0;
+  
 }
 
 .jogos img {
@@ -51,6 +52,7 @@ p {
   height: auto;
   cursor: pointer;
   transition: transform 0.3s;
+  border-radius: 30px;
 }
 
 .jogos img:hover {
